@@ -16,7 +16,6 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
   </div>
 </div>
 <br/>
-> 
 
 ## 🚀 Tech Stack
 
@@ -58,11 +57,6 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 
 ---
 
-## 🔗 Assets
-
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
-
----
 
 
 
