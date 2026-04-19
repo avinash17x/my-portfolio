@@ -99,6 +99,10 @@ const Works = () => {
     moveY.current(mouse.current.y);
   };
 
+  const handleMouseClick = (href) => {
+    window.open(href, "_blank");
+  };
+
   return (
     <section id="work" className="flex flex-col min-h-screen">
       <AnimatedHeaderSection
@@ -133,7 +137,7 @@ const Works = () => {
               <h2 className="lg:text-[32px] text-[26px] leading-none">
                 {project.name}
               </h2>
-              <Icon icon="lucide:arrow-up-right" className="md:size-6 size-5" />
+              <Icon icon="lucide:arrow-up-right" className="md:size-6 size-5" onClick={() => handleMouseClick(project.href)} />
             </div>
             {/* divider */}
             <div className="w-full h-0.5 bg-black/80" />

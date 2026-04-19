@@ -46,7 +46,7 @@ export const projects = [
     name: "Game Landing Page with Parallax Effects",
     description:
       "A visually rich landing page inspired by GTA VI, featuring parallax scrolling and immersive GSAP animations to create a dynamic and engaging user experience.",
-    href: "#",
+    href: "https://gtavi-landing-main.vercel.app/",
     image: "/assets/projects/GTAVI_landing.png",
     bgImage: "",
     frameworks: [
@@ -60,7 +60,7 @@ export const projects = [
     name: "Animated Landing Page",
     description:
       "An interactive landing page inspired by Thirtysixstudio, built with smooth animations, scroll effects, and modern UI design using GSAP and React.",
-    href: "#",
+    href: "https://thirtysixstudio-iota.vercel.app/",
     image: "/assets/projects/Thirtysixstudio.png",
     bgImage: "",
     frameworks: [
@@ -74,7 +74,7 @@ export const projects = [
     name: "Animated Interactive Website",
     description:
       "A creative web experience built using HTML, CSS, and JavaScript, featuring GSAP-powered animations and interactive UI elements.",
-    href: "#",
+    href: "https://capsule-moyra.vercel.app/",
     image: "/assets/projects/capsules-moyra.png",
     bgImage: "",
     frameworks: [
@@ -89,7 +89,7 @@ export const projects = [
     name: "SaaS Landing Page UI",
     description:
       "A modern and responsive SaaS landing page built with React and Tailwind CSS, focusing on clean design, reusable components, and smooth user experience.",
-    href: "#",
+    href: "https://xora-main-haog.vercel.app/",
     image: "/assets/projects/xora-main.png",
     bgImage: "",
     frameworks: [
@@ -102,7 +102,7 @@ export const projects = [
     name: "E-Commerce Product Page",
     description:
       "A modern and E-Commerce product page built with html, css and js, focusing on clean design, reusable components, and smooth user experience.",
-    href: "#",
+    href: "https://foodify-red.vercel.app/",
     image: "/assets/projects/Foodify.png",
     bgImage: "",
     frameworks: [
