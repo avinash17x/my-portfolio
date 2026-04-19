@@ -7,8 +7,7 @@ This is a fully animated, interactive, 3D developer portfolio designed to **impr
 > ⚡ Inspired by Awwwards-level sites — built with React (Vite), TailwindCSS, GSAP, React Three Fiber, and Drei.
 
 <br/>
-<a href="avinashx17-portfolio.vercel.app">View</a>
-<br />
+
 <div>
   <img src="/public/assets/backgrounds/img1.png" alt="Hero" style="border-radius: 8px;"/>
   <div style="display: flex; justify-content: space-between; margin: 20px 0;">
