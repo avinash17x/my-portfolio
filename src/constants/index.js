@@ -55,7 +55,7 @@ export const projects = [
       { id: 1, name: "React" },
       { id: 2, name: "TypeScript" },
       { id: 3, name: "Tailwind CSS" },
-      { id: 4, name: "Node.js" },
+      { id: 4, name: "Puter.js" },
       { id: 5, name: "AI API" },
     ],
   },
